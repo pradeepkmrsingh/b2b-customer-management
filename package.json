@@ -22,7 +22,7 @@
     "@angular/router": "~8.2.4",
     "@types/xlsx": "0.0.36",
     "auth0-js": "^9.11.3",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "file-saver": "^2.0.2",
     "jquery": "^3.4.1",
     "jw-angular-pagination": "^1.1.0",
