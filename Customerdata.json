@@ -1,0 +1,440 @@
+{
+  "customers": [
+    {
+      "customerFirstName": "Manisha",
+      "customerId": 1,
+      "customerLastName": "Garapati",
+      "latitude": 15.9129,
+      "longitude": 79.73999,
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeBZL-I9YNqb9lKjAsckykUHVfWMhbqqBp0yHdlMfWukSbIrfg",
+      "orders": [
+        {
+          "productName": "OnePlus 7 Pro",
+          "productCode": "OP-007",
+          "purchaseDate": "2019-08-16",
+          "price": 700,
+          "rating": 4.8
+        },
+        {
+          "productName": "Laptop",
+          "productCode": "HP-0048",
+          "purchaseDate": "2019-07-16",
+          "price": 500,
+          "rating": 4.2
+        },
+        {
+          "productName": "Refrigerator",
+          "productCode": "RG-0022",
+          "purchaseDate": "2019-06-18",
+          "price": 1000.55,
+          "rating": 3.4
+        }
+      ]
+    },
+    {
+      "customerId": 2,
+      "customerFirstName": "Parul",
+      "customerLastName": "Garg",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": 26.846708,
+      "longitude": 80.946159,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeBZL-I9YNqb9lKjAsckykUHVfWMhbqqBp0yHdlMfWukSbIrfg",
+      "orders": [
+        {
+          "productName": "Televison",
+          "productCode": "TV-0016",
+          "purchaseDate": "2019-12-19",
+          "price": 1200.99,
+          "rating": 4.2
+        },
+        {
+          "productName": "Air Conditioner",
+          "productCode": "AC-0048",
+          "purchaseDate": "2019-12-04",
+          "price": 800.9,
+          "rating": 3.8
+        }
+      ]
+    },
+    {
+      "customerId": 3,
+      "customerFirstName": "Sathish",
+      "customerLastName": "Kumar",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 11.127123,
+      "longitude": 78.656891,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf_3e7FI2g2nzdggep69TzDzIrEl2gjPNdceWp0gGEwQA94Kxu",
+      "orders": [
+        {
+          "productName": "Watch",
+          "productCode": "LP-0023",
+          "purchaseDate": "2019-12-04",
+          "price": 500.99,
+          "rating": 3.2
+        },
+        {
+          "productName": "Refrigerator",
+          "productCode": "RG-0043",
+          "purchaseDate": "2019-02-27",
+          "price": 800.9,
+          "rating": 3.5
+        },
+        {
+          "productName": "IPhone",
+          "productCode": "IP-0022",
+          "purchaseDate": "2019-07-27",
+          "price": 1100.55,
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "customerId": 4,
+      "customerFirstName": "Shubham",
+      "customerLastName": "Singh",
+      "state": "Punjab",
+      "country": "India",
+      "latitude": 31.147129,
+      "longitude": 75.341217,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf_3e7FI2g2nzdggep69TzDzIrEl2gjPNdceWp0gGEwQA94Kxu",
+      "orders": [
+        {
+          "productName": "Air Conditioner",
+          "productCode": "AC-0054",
+          "purchaseDate": "2019-04-27",
+          "price": 320.99,
+          "rating": 3.2
+        },
+        {
+          "productName": "IPhone",
+          "productCode": "IP-003",
+          "purchaseDate": "2019-11-22",
+          "price": 800.9,
+          "rating": 3.8
+        }
+      ]
+    },
+    {
+      "customerId": 5,
+      "customerFirstName": "Prasanna",
+      "customerLastName": "Kumar",
+      "state": "Telangana",
+      "country": "India",
+      "latitude": 18.112436,
+      "longitude": 79.019302,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf_3e7FI2g2nzdggep69TzDzIrEl2gjPNdceWp0gGEwQA94Kxu",
+      "orders": [
+        {
+          "productName": "Refrigerator",
+          "productCode": "RG-0083",
+          "purchaseDate": "2019-01-27",
+          "price": 320.99,
+          "rating": 2.2
+        },
+        {
+          "productName": "Watch",
+          "productCode": "LP-0048",
+          "purchaseDate": "2019-01-19",
+          "price": 200.9,
+          "rating": 3.8
+        }
+      ]
+    },
+    {
+      "customerId": 6,
+      "customerFirstName": "Pradeep",
+      "customerLastName": "Singh",
+      "state": "New Delhi",
+      "country": "India",
+      "latitude": 28.613939,
+      "longitude": 77.209023,
+      "imageUrl": "https://image.shutterstock.com/image-vector/businessman-icon-cartoon-single-avatar-600w-471777305.jpg",
+      "orders": [
+        {
+          "productName": "Television",
+          "productCode": "TV-0023",
+          "purchaseDate": "2019-10-18",
+          "price": 320.99,
+          "rating": 3.9
+        },
+        {
+          "productName": "OnePlus 7 Pro",
+          "productCode": "OP-107",
+          "purchaseDate": "2019-12-09",
+          "price": 500.9,
+          "rating": 3.8
+        }
+      ]
+    },
+    {
+      "customerId": 7,
+      "customerFirstName": "Achiv",
+      "customerLastName": "Chauhan",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": 26.846708,
+      "longitude": 80.946159,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTumC1yBEk0q5DqbXNNx5dNRbPR9RRIzD8fj_EE47hIZjnUYmJj",
+      "orders": [
+        {
+          "productName": "Watch",
+          "productCode": "WT-2723",
+          "purchaseDate": "2019-01-17",
+          "price": 100.99,
+          "rating": 4.8
+        },
+        {
+          "productName": "OnePlus 7 Pro",
+          "productCode": "OP-007",
+          "purchaseDate": "2019-10-18",
+          "price": 499.9,
+          "rating": 4.8
+        },
+        {
+          "productName": "Refrigerator",
+          "productCode": "RG-0032",
+          "purchaseDate": "201-05-18",
+          "price": 900.55,
+          "rating": 3.4
+        }
+      ]
+    },
+    {
+      "customerId": 8,
+      "customerFirstName": "Preethi",
+      "customerLastName": "Rajendra",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 11.127123,
+      "longitude": 78.656891,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg85m9IxM-XJUqbFECAYtZJj8sBTFdOGnCn8dRyqEBJ0jPVKJJ",
+      "orders": [
+        {
+          "productName": "Laptop",
+          "productCode": "WT-2723",
+          "purchaseDate": "2019-08-17",
+          "price": 400.99,
+          "rating": 4.8
+        },
+        {
+          "productName": "OnePlus 7 Pro",
+          "productCode": "OP-007",
+          "purchaseDate": "2019-10-18",
+          "price": 499.9,
+          "rating": 4.8
+        },
+        {
+          "productName": "Refrigerator",
+          "productCode": "RG-0032",
+          "purchaseDate": "2019-08-18",
+          "price": 600.55,
+          "rating": 3.4
+        }
+      ]
+    },
+    {
+      "customerId": 9,
+      "customerFirstName": "Chanyeol",
+      "customerLastName": "Park",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "latitude": 11.127123,
+      "longitude": 78.656891,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf_3e7FI2g2nzdggep69TzDzIrEl2gjPNdceWp0gGEwQA94Kxu",
+      "orders": [
+        {
+          "productName": "Air Conditioner",
+          "productCode": "WT-2723",
+          "purchaseDate": "2019-09-11",
+          "price": 100.99,
+          "rating": 4.8
+        },
+        {
+          "productName": "Television",
+          "productCode": "TV-0032",
+          "purchaseDate": "2019-06-18",
+          "price": 900.55,
+          "rating": 3.4
+        }
+      ]
+    },
+    {
+      "customerId": 11,
+      "customerFirstName": "Meril",
+      "customerLastName": "Benny",
+      "state": "Kerala",
+      "country": "India",
+      "latitude": 10.850516,
+      "longitude": 76.27108,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4mb030KPuwnpp18B3OL7n54NaHaDE_uRn6soa9jVu_8-4P2Dw",
+      "orders": [
+        {
+          "productName": "Watch",
+          "productCode": "WT-2723",
+          "purchaseDate": "2019-01-17",
+          "price": 100.99,
+          "rating": 2.8
+        },
+        {
+          "productName": "Television",
+          "productCode": "WT-007",
+          "purchaseDate": "2019-11-18",
+          "price": 499.9,
+          "rating": 3.8
+        },
+        {
+          "productName": "Refrigerator",
+          "productCode": "RG-0032",
+          "purchaseDate": "2019-05-18",
+          "price": 400.55,
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "customerId": 11,
+      "customerFirstName": "Nisha",
+      "customerLastName": "Jain",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": 19.75148,
+      "longitude": 75.71389,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeBZL-I9YNqb9lKjAsckykUHVfWMhbqqBp0yHdlMfWukSbIrfg",
+      "orders": [
+        {
+          "productName": "IPhone",
+          "productCode": "IP-2723",
+          "purchaseDate": "2019-02-17",
+          "price": 1000.99,
+          "rating": 4.3
+        },
+        {
+          "productName": "Television",
+          "productCode": "TV-007",
+          "purchaseDate": "2019-07-18",
+          "price": 499.9,
+          "rating": 5.8
+        }
+      ]
+    },
+    {
+      "customerId": 13,
+      "customerFirstName": "Nishtha",
+      "customerLastName": "Sharma",
+      "state": "Maharashtra",
+      "country": "India",
+      "latitude": "19.075983",
+      "longitude": "72.877655",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeBZL-I9YNqb9lKjAsckykUHVfWMhbqqBp0yHdlMfWukSbIrfg",
+      "orders": [
+        {
+          "productName": "Watch",
+          "productCode": "WT-2723",
+          "purchaseDate": "2019-03-17",
+          "price": 100.99,
+          "rating": 4.8
+        },
+        {
+          "productName": "Laptop",
+          "productCode": "LP-0022",
+          "purchaseDate": "2019-09-18",
+          "price": 500.55,
+          "rating": 3.7
+        }
+      ]
+    },
+    {
+      "customerId": 13,
+      "customerFirstName": "Manisha",
+      "customerLastName": "Reddy",
+      "state": "Karnataka",
+      "country": "India",
+      "latitude": 15.317277,
+      "longitude": 75.71389,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeBZL-I9YNqb9lKjAsckykUHVfWMhbqqBp0yHdlMfWukSbIrfg",
+      "orders": [
+        {
+          "productName": "Watch",
+          "productCode": "WT-2723",
+          "purchaseDate": "2019-07-17",
+          "price": 100.99,
+          "rating": 4.2
+        },
+        {
+          "productName": "OnePlus 7 Pro",
+          "productCode": "OP-007",
+          "purchaseDate": "2019-03-18",
+          "price": 499.9,
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "customerId": 14,
+      "customerFirstName": "Sehun",
+      "customerLastName": "Oh",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "latitude": 15.9129,
+      "longitude": 79.73999,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS19UMQUvTxEBc-uvDmLIJT_4a-qPaR4l9XjM9HlG9AewcCHmae",
+      "orders": [
+        {
+          "productName": "Television",
+          "productCode": "OP-007",
+          "purchaseDate": "2019-02-18",
+          "price": 899.9,
+          "rating": 5
+        },
+        {
+          "productName": "Refrigerator",
+          "productCode": "RG-0032",
+          "purchaseDate": "2019-05-18",
+          "price": 900.55,
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "customerId": 15,
+      "customerFirstName": "Zeelya",
+      "customerLastName": "Byun",
+      "state": "Goa",
+      "country": "India",
+      "latitude": 15.299326,
+      "longitude": 74.123993,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqVWv_sP6E4oxm-UyCNwnxwvd6jLhBYd_OjlE6VsWmRYs-_REa",
+      "orders": [
+        {
+          "productName": "Watch",
+          "productCode": "WT-2723",
+          "purchaseDate": "2019-05-17",
+          "price": 100.99,
+          "rating": 4.8
+        },
+        {
+          "productName": "IPhone",
+          "productCode": "IP-0032",
+          "purchaseDate": "2019-09-10",
+          "price": 1200.55,
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "customerFirstName": "ABC",
+      "customerId": 16,
+      "customerLastName": "DEF",
+      "latitude": "20",
+      "longitude": "80",
+      "state": "fsfd",
+      "country": "jjkj",
+      "imageUrl": "https://image.shutterstock.com/image-vector/businessman-icon-cartoon-single-avatar-600w-471777305.jpg",
+      "orders": []
+    }
+  ]
+}
