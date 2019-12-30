@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
 
+A b2b customer management web application which can be used to track all the products purchased by a customer and to find out the statistics about the products i.e the products which were purchased in high demand in any time of year
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
