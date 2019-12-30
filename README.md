@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Images of the Application
+
+<img width="832" alt="img11 - Copy" src="https://user-images.githubusercontent.com/32439809/71576129-8d1cbd80-2b15-11ea-879b-5d86b7da3a38.PNG">
+<img width="832" alt="img11" src="https://user-images.githubusercontent.com/32439809/71576131-8d1cbd80-2b15-11ea-95c7-63945b495f03.PNG">
+<img width="770" alt="img22" src="https://user-images.githubusercontent.com/32439809/71576132-8db55400-2b15-11ea-8582-7f3830eded58.PNG">
+<img width="766" alt="img33" src="https://user-images.githubusercontent.com/32439809/71576133-8db55400-2b15-11ea-81f7-040bc6ca755e.PNG">
+<img width="813" alt="img44" src="https://user-images.githubusercontent.com/32439809/71576134-8db55400-2b15-11ea-9403-a973b0faee04.PNG">
+<img width="958" alt="img55" src="https://user-images.githubusercontent.com/32439809/71576135-8e4dea80-2b15-11ea-9de2-d4bfb1e183a0.PNG">
+<img width="939" alt="img66" src="https://user-images.githubusercontent.com/32439809/71576136-8e4dea80-2b15-11ea-83d1-6a8177f18f4c.PNG">
